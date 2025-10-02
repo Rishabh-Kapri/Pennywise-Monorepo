@@ -1,9 +1,3 @@
-# Pennywise
-
-A full-stack personal finance management application inspired by YNAB, built to solve the problem of automatic transaction tracking in India where such services aren't readily available.
-
-## Overview
-
 Pennywise automatically extracts and categorizes financial transactions from email notifications, eliminating manual data entry. The project evolved from a Firebase-backed frontend-only application to a distributed system with Golang backend services and PostgreSQL database.
 
 ## Key Features
