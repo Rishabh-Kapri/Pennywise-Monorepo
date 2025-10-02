@@ -14,6 +14,8 @@ Pennywise automatically extracts and categorizes financial transactions from ema
 - **Machine Learning**: Custom MLP model trained on personal transaction data
 - **Frontend**: Angular
 
+<img width="596" height="400" alt="Untitled" src="https://github.com/user-attachments/assets/41f178ca-40cf-43ff-82ea-c3be1ff8391d" />
+
 ## Roadmap
 
 - [ ] Multi-user support with authentication
@@ -24,3 +26,5 @@ Pennywise automatically extracts and categorizes financial transactions from ema
 - [ ] PDF report generation
 - [ ] Model retraining pipeline for improving prediction accuracy
 - [ ] Category-based financial goals and tracking
+
+
